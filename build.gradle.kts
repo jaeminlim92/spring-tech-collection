@@ -12,7 +12,8 @@ version = "0.0.1-SNAPSHOT"
 
 java {
     toolchain {
-        languageVersion = JavaLanguageVersion.of(17)
+        languageVersion = JavaLanguageVersion.of(libs.versions.java.get())
+        vendor.set(JvmVendorSpec.ADOPTIUM) // Eclipse Adoptium 사용
     }
 }
 
