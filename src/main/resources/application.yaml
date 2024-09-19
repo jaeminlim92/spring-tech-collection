@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-tech-collection
+  jpa:
+    open-in-view: false
