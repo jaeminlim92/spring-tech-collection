@@ -28,11 +28,10 @@ Spring Boot 프로젝트에서 사용되는 다양한 기술과 설정을 모아
 
 ## 📂 프로젝트 구조
 
-리포지토리는 쉽게 탐색할 수 있도록 폴더로 정리되어 있습니다:
-- `/spring-configs` — Spring 프레임워크 설정 파일들.
-- `/jpa-configs` — JPA 및 영속성 관련 파일들.
-- `/cache-configs` — 캐시 설정과 예시들.
-- `/toml-examples` — TOML을 사용한 구성 예시 파일들.
+리포지토리는 쉽게 탐색할 수 있도록 폴더로 정리되어 있습니다:  
+TODO : 추가예정입니다.  
+<s>- `/spring-configs` — Spring 프레임워크 설정 파일들.</s>
+
 
 ---
 
