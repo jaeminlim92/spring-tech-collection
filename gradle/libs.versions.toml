@@ -3,7 +3,7 @@ java = "17"
 springboot-version = "3.3.3"
 
 [libraries]
-
+spring-boot-starter-web = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "springboot-version" }
 
 [plugins]
 spring-boot = { id = "org.springframework.boot", version.ref = "springboot-version" }
